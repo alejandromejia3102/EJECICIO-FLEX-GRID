@@ -269,9 +269,6 @@ footer{
             .fondo{
                 opacity: 85%;
             }
-            .fondoReg{
-                opacity: 85%;
-            }
         }
     }
 @media screen and (max-width: 500px) {
@@ -311,9 +308,6 @@ footer{
                 img{
                     display: block;
                 }
-            }
-            h1{
-                font-size: 60px;
             }
         }
         .fondoReg{
